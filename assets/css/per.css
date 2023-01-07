@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#uns-per {
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+}
+#uns-per{
+    width: 600px;
+    height: 400px;
+}

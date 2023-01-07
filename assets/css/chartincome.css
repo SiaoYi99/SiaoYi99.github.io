@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#chart-income {
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+}
+#chart-income{
+    width: 600px;
+    height: 400px;
+}

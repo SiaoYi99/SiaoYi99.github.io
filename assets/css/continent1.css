@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#continent {
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+}
+#continent {
+    width: 100%;
+    height: 500px;
+}

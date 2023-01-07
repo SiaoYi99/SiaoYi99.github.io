@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#chart-dev {
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+}
+#chart-dev{
+    width: 600px;
+    height: 400px;
+}

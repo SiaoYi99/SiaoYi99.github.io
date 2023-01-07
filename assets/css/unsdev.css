@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#uns-dev {
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+}
+#uns-dev{
+    width: 100%;
+    height: 500px;
+}

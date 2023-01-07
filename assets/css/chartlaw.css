@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#chart-law {
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+}
+
+#chart-law{
+    width: 100%;
+    height: 500px;
+}

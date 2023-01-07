@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#chart-con {
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+}
+#chart-con{
+    width: 100%;
+    height: 500px;
+}

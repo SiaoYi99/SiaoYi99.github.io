@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#chinadata{
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+}
+#chinadata {
+    width: 100%;
+    height: 400px;
+}
